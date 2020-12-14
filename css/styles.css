@@ -1,0 +1,115 @@
+
+body{
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5rem;
+}
+#title{
+  background-color: #222831;
+  color: #fff;
+  text-align: center;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5rem;
+}
+
+.ml{
+  margin-left: auto;
+}
+/* 1stpage container fluid tt */
+.tt{
+  padding: 3% 15%;
+}
+.title-img{
+  width: 95%;
+
+}
+.title-gif{
+  width: 45%;
+
+
+}
+.navbar-brand{
+  font-family: 'Monoton', cursive;
+}
+
+
+/* 2nd page container fluid st*/
+.st{
+  padding: 3% 15%;
+  text-align: center;
+  background-color: #30475e;
+
+}
+/* press */
+#press{
+  padding: 3% 15%;
+  background-color: #30475e;
+  color: #fff
+
+}
+
+
+/* features */
+
+#Features{
+  padding: 1% 15%;
+  background-color:#222831;
+}
+.feature-box{
+  padding: 2%;
+}
+
+/* testimonilasection */
+
+#testimonials{
+
+  text-align: center;
+  background-color: #222831;
+  color: #fff;
+}
+.testimonial-img{
+  width: 30%;
+  border-radius:100%;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+
+}
+.mb{
+  background-color: #30475e;
+  color:#fff;
+}
+
+
+/* testimonilasection end */
+
+/* last */
+
+#last{
+  background-color: #30475e;
+  text-align: center;
+  padding: 2% 15%;
+}
+/* last end */
+.mts{
+  font-size: 1rem;
+  padding: 3% 15%;
+  color: #fff
+
+}
+.sigh{
+  font-family: 'Handlee', cursive;
+  color: #fff3b2;
+
+}
+.hh{
+  margin: 10px 10px ;
+}
+.ka{
+  font-size: 1rem;
+  font-family: monospace;
+}
