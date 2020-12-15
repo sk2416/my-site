@@ -22,10 +22,7 @@ h1{
 .tt{
   padding: 3% 15%;
 }
-.title-img{
-  width: 95%;
 
-}
 .title-gif{
   width: 45%;
 
@@ -87,14 +84,7 @@ h1{
 
 /* testimonilasection end */
 
-/* last */
 
-#last{
-  background-color: #30475e;
-  text-align: center;
-  padding: 2% 15%;
-}
-/* last end */
 .mts{
   font-size: 1rem;
   padding: 3% 15%;
@@ -107,10 +97,21 @@ h1{
 
 }
 .hh{
-  
+
   margin: 10px 10px ;
 }
 .ka{
   font-size: 1rem;
   font-family: monospace;
 }
+/* last */
+#sklast{
+  padding: 3% 15%;
+  background-color: #ffdada;
+}
+.last{
+  background-color: #30475e;
+  text-align: center;
+  padding: 1% 15%;
+}
+/* last end */
